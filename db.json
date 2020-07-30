@@ -1,5 +1,6 @@
 {
-  "user": {
+  "user": [
+  {
     "id": 1,
     "name": "Anuz Pandey",
     "media": {
@@ -23,4 +24,5 @@
       }
     }
   }
+  ]
 }
