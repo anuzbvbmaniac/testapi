@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Anuz Pandey",
+  "username": "anuzpandey",
+  "email": "anuzpandey123@gmail.com",
+  "media": {
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "image": {
+      "1": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34f52a100739959.5f0f4bda1593e.png",
+      "2": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/10b6f8100739959.5f0f4bda16861.png",
+      "3": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3315bc100739959.5f0f4bda171f4.png"
+    }
+  },
+  "template": "Template001",
+  "company": {
+    "name": "Stylus Technology",
+    "address": "Jwagal, Lalitpur, NP",
+    "slogan": "Innovation with Technology"
+  }
+}
